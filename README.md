@@ -17,5 +17,4 @@ Please contact Jesse Felix <Jesse.Felix@belkin.com> if you run into issues.
 A: Previous experience is not required.   Just join the class and have fun creating something new.
 
 2. Q: What I'll learn during this mini coding bootcamp?  
-A: 
-
+A: You'll learn how does the internet work, what's http request, and how to create a simple webpage which could fetch infomation from the internet through http requests. 
