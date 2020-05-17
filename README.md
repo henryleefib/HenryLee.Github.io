@@ -12,10 +12,9 @@ Please contact Jesse Felix <Jesse.Felix@belkin.com> if you run into issues.
 
 
 ### Q&A: 
-1. 
-Q: Do I need previous experience in programming before participating the coding bootcamp?
+1. Q: Do I need previous experience in programming before participating the coding bootcamp?  
 A: Previous experience is not required.   Just join the class and have fun creating something new.
 
-Q: What I'll learn during this mini coding bootcamp?
+2. Q: What I'll learn during this mini coding bootcamp?  
 A: 
 
