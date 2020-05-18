@@ -1,4 +1,4 @@
-## Setting up your development enviroment for Da Vinchi mini coding bootcamp
+## Setting up your development environment for Da Vinci mini coding bootcamp
 
 ### 1. Installing the IDE 
 You may need administrative powers in order to install the required software.
