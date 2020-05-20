@@ -26,7 +26,7 @@
     <script>
       function showJoke() {
         var Http = new XMLHttpRequest();
-        var url='https://official-joke-api.appspot.com/random_joke';
+        var url='http://api.icndb.com/jokes/random';
         Http.open("GET", url);
         Http.responseType = 'json';
         Http.send();
@@ -34,10 +34,9 @@
         Http.onload = (e) => {
           console.log(e.target.response);
           var response = e.target.response;
-          // if (response.type == "success") {
-              console.log(response);
-              // document.getElementById('joke').innerHTML = response.value.joke;
-          // }
+          if (response.type == "success") {
+              document.getElementById('joke').innerHTML = response.value.joke;
+          }
         }
 
       }
