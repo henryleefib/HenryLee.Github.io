@@ -5,8 +5,6 @@ You may need administrative powers to install the required software.
 Goto [https://www.sublimetext.com/3](https://www.sublimetext.com/3).   
 Download and install the IDE 
 
-### 2. Create an account on https://ifttt.com/
-### 3. Create an account on https://openweathermap.org/api
 
 Please contact Jesse Felix <Jesse.Felix@belkin.com> if you run into issues.
 
