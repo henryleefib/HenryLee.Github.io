@@ -20,5 +20,5 @@ A: You'll learn how does the internet work, what's HTTP request, and how to crea
 
 Links: 
 
-Joke API: https://official-joke-api.appspot.com/random_joke
+Joke API: https://official-joke-api.appspot.com/random_joke.  
 Placeholder image: https://placekitten.com/g/200/300
