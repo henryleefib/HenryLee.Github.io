@@ -1,6 +1,6 @@
 ## Setting up your development environment for Da Vinci mini coding bootcamp
 
-### 1. Installing the IDE 
+### Installing the IDE 
 You may need administrative powers to install the required software.
 Goto [https://www.sublimetext.com/3](https://www.sublimetext.com/3).   
 Download and install the IDE 
