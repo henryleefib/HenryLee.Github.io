@@ -18,4 +18,7 @@ A: Previous experience is not required.   Just join the class and have fun creat
 A: You'll learn how does the internet work, what's HTTP request, and how to create a simple webpage that could fetch information from the internet through HTTP requests. 
 
 
+Links: 
+
 Joke API: https://official-joke-api.appspot.com/random_joke
+Placeholder image: https://placekitten.com/g/200/300
