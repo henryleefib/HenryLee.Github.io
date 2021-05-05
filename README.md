@@ -6,8 +6,6 @@ Goto [https://www.sublimetext.com/3](https://www.sublimetext.com/3).
 Download and install the IDE 
 
 
-Please contact Jesse Felix <Jesse.Felix@belkin.com> if you run into issues.
-
 
 
 ### Q&A: 
